@@ -22,9 +22,9 @@ This is a simple graphical user interface (GUI) application for text encryption 
 
 ![image](https://github.com/Fatmaakarsu/Cipher-Encryption-GUI/assets/79910837/8e1106b3-f526-4fba-8484-4619e9f76040)
 
-![image](https://github.com/Fatmaakarsu/Cipher-Encryption-GUI/assets/79910837/97c343ac-6ac3-4e63-a39c-eea1dc21667b)
-
 5. Click the "Encrypt" button to see the encrypted message.
+
+![image](https://github.com/Fatmaakarsu/Cipher-Encryption-GUI/assets/79910837/97c343ac-6ac3-4e63-a39c-eea1dc21667b)
 
 ## Requirements
 
@@ -34,5 +34,9 @@ This is a simple graphical user interface (GUI) application for text encryption 
 
 ## Installation
 
-```bash
-pip install pillow
+`pip install pillow`
+
+## Usage
+
+`python cipher_gui.py`
+
